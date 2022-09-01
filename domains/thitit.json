@@ -1,0 +1,11 @@
+{
+  "description": "My personal portfolio as a programming language and developer.",
+  "repo": "https://github.com/thititongumpun/template_portfolio",
+  "owner": {
+    "username": "thititongumpun",
+    "email": "thiti180536@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://portfolio-five-tan.vercel.app"
+  }
+}
